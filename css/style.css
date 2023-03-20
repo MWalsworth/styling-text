@@ -19,7 +19,7 @@ figcaption, .article-category, .sub-title, .author,time {
 h1 {
   font-size: 2.5rem;
   line-height: 1.3;
-  margin:1rem 0;
+  margin: 1rem 0;
 }
 .sub-title {
   font-weight: bold;
@@ -39,6 +39,6 @@ a:hover {text-decoration: none; color:#ff3530;}
 .author {
   margin-bottom: 0;
   }
-figure element {
-  margin: 5.7em 0;
+figure {
+  margin: 1.25em 0;
 }
